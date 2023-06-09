@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 7e27fbfc-e3f1-4bc7-be9e-436e706b08b6
-  WEBAPP-NAME: az400-webapp-PDR
+  WEBAPP-NAME: az400-webapp-PDR99
 
 
 jobs:
